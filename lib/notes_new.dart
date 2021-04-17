@@ -48,7 +48,7 @@ class _NewNoteState extends State<NewNote> with SingleTickerProviderStateMixin {
                   //textInputAction: TextInputAction.send,
                   //textCapitalization: TextCapitalization.words,
                   style: TextStyle(
-                      color: Theme.of(context).backgroundColor, fontSize: 15),
+                      color: Theme.of(context).primaryColor, fontSize: 15,),
                   //strutStyle: StrutStyle(fontWeight: FontWeight.bold),
                   //textAlign: TextAlign.center,
                   //textAlignVertical: TextAlignVertical.center,
