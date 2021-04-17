@@ -1,16 +1,18 @@
 # widgets_demonstration
 
-A new Flutter application.
+A flutter default widgets demonstration:
 
-## Getting Started
+## Widgets demonstrated on it
 
-This project is a starting point for a Flutter application.
+- TextButton
+- AnimatedCrossFade
+- TextField
+- Dismissible
+- BottomSheet
 
-A few resources to get you started if this is your first Flutter project:
+## Also with this widgets choice made a demo Notes application using provider for illustration.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img width="395" alt="Captura de Tela 2021-04-16 às 11 37 25 PM" src="https://user-images.githubusercontent.com/26191876/115099560-158ebf80-9f0d-11eb-995c-539b58a8a95d.png">
+<img width="400" alt="Captura de Tela 2021-04-16 às 11 39 17 PM" src="https://user-images.githubusercontent.com/26191876/115099563-17588300-9f0d-11eb-90f6-25da081ad8fb.png">
+<img width="400" alt="Captura de Tela 2021-04-16 às 11 39 35 PM" src="https://user-images.githubusercontent.com/26191876/115099564-19224680-9f0d-11eb-90a0-2ecc6d0765bd.png">
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
